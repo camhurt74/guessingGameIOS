@@ -1,0 +1,33 @@
+
+/* Class = "UIButton"; normalTitle = "Play Again"; ObjectID = "0h5-TQ-3lp"; */
+"0h5-TQ-3lp.normalTitle" = "Play Again";
+
+/* Class = "UILabel"; text = "Select difficulty"; ObjectID = "8Vg-zW-aes"; */
+"8Vg-zW-aes.text" = "Select difficulty";
+
+/* Class = "UIButton"; normalTitle = "Custom"; ObjectID = "Equ-BN-2qu"; */
+"Equ-BN-2qu.normalTitle" = "Custom";
+
+/* Class = "UILabel"; text = "6 Guesses remaining"; ObjectID = "OzN-Z7-syc"; */
+"OzN-Z7-syc.text" = "6 Guesses remaining";
+
+/* Class = "UIButton"; normalTitle = "Hard"; ObjectID = "PwX-jj-wQc"; */
+"PwX-jj-wQc.normalTitle" = "Hard";
+
+/* Class = "UIButton"; normalTitle = "Guess"; ObjectID = "Vab-pM-zIU"; */
+"Vab-pM-zIU.normalTitle" = "Guess";
+
+/* Class = "UITextField"; placeholder = "0"; ObjectID = "daH-1U-PAo"; */
+"daH-1U-PAo.placeholder" = "0";
+
+/* Class = "UIButton"; normalTitle = "Medium"; ObjectID = "e62-Zq-Ht8"; */
+"e62-Zq-Ht8.normalTitle" = "Medium";
+
+/* Class = "UILabel"; text = "Please select a number between 1-and 100"; ObjectID = "rbQ-8o-yE5"; */
+"rbQ-8o-yE5.text" = "Please select a number between 1-and 100";
+
+/* Class = "UILabel"; text = "Guessing game"; ObjectID = "xd2-BQ-ShU"; */
+"xd2-BQ-ShU.text" = "Guessing game";
+
+/* Class = "UIButton"; normalTitle = "Easy"; ObjectID = "yZZ-IU-Ybl"; */
+"yZZ-IU-Ybl.normalTitle" = "Easy";
